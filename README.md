@@ -2,7 +2,7 @@
 # nama: daryoto
 # nim: 312510356
 # kelas: TI.C5.25
- # algoritma
+ # Algoritma latihan 1
 1. mulai
 2. input data
 3. hitung nilai akhir
@@ -14,7 +14,7 @@
    (output)> (<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/a169c3a8-b4c9-41e5-a67a-2b3e6a96ba11" />
 (flowchart)> (<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/7549cfd0-68c9-4e95-8985-d11f1650f8d1" />
 
- #algoritma latihan 2
+ #Algoritma latihan 2
   1. mulai
   2. input data
   3. proses data
