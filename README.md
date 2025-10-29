@@ -27,7 +27,8 @@
   10. selesai
 
 (output)> (<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/e7e9fb11-1394-4cbd-88e8-8adec08c6337" />
-(flowchart)> (
+(flowchart)> (<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c0c49770-acae-4659-88fa-e24451416ed5" />
+
 
 #Algoritma latihan 3
  1. mulai
